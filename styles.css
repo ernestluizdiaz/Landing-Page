@@ -1,0 +1,30 @@
+/* Global */
+body {
+    margin: 0;
+    background-color: #edeff6;
+}
+header {
+    width: auto;
+    height: auto;
+}
+
+/* Navbar */
+.logo img {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+    width: 100px;
+}
+
+/* Nav font color  */
+.nav-link {
+    color: black;
+}
+
+/* Nav font color and font-weight  */
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: black;
+    font-weight: bold;
+}
