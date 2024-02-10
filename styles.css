@@ -48,6 +48,11 @@ h1 {
     font-weight: bold;
 }
 
+.navbar a:hover {
+    color: black;
+}
+
+
 /* Content */
 .main-container {
     border-radius: 25px;
