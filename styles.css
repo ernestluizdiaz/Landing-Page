@@ -1,4 +1,8 @@
 /* Global */
+body {
+    background-color: beige !important;
+}
+
 header {
     width: auto;
     height: auto;
